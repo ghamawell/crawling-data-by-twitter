@@ -1,7 +1,0 @@
-Crawling Data Twitter
-Install & Import Requirement Library
-Install Library
-
-#!pip3 uninstall twint -y
-#!pip3 install --user --upgrade git+https://github.com/twintproject/twint.git@origin/master#egg=twint
-!pip3 install nest_asyncio
